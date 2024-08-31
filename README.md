@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @iamsharvesh26
+- 👀 I’m interested in technology, web development, and cloud computing.
+- 🌱 I’m currently learning cloud computing, data science, and laws of logic.
+- 💞️ I’m looking to collaborate on exciting tech projects, especially those involving web design and cloud solutions.
+- 📫 How to reach me: 
+  - Email: sharveshmedia@gmail.com
+  - LinkedIn: [iamsharvesh26](https://www.linkedin.com/in/iamsharvesh26)
+  - GitHub: [iamsharvesh26](https://github.com/iamsharvesh26)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm passionate about classic cars, especially my blue 1964 Mustang!
